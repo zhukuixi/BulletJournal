@@ -1,9 +1,9 @@
-##2020生涯目标
+# 2020生涯目标
 * 自由后有一份自己喜欢的工作：纽约亚马逊，纽约FB/Instragram...
 * 成为ML Engineer + Data Scientist
 * 思考桌游设计
 
-##2020学习目标
+# 2020学习目标
 * 外功：编程 
 	* **Python **
 		* [Element of Python Interview刷题之旅]()
