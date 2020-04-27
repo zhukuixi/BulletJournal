@@ -27,3 +27,4 @@
 		* [Git Simple Guide!](http://rogerdudler.github.io/git-guide/)
 		* [Git图解](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg)
 		* [Git心得](http://strivingboy.github.io/blog/2015/06/17/git-doc/)
+		* [Git Cheat Sheet](https://gitee.com/liaoxuefeng/learn-java/raw/master/teach/git-cheatsheet.pdf)
