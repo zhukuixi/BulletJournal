@@ -24,6 +24,7 @@
 	    * [Github教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
 		* [Github教程-CSDN](https://blog.csdn.net/u013490896/article/details/81158454?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158793989919724839253396%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=158793989919724839253396&biz_id=0&utm_source=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v25-2)
 		* [Github教程-Gitbook](http://gitbook.liuhui998.com/index.html)
+		* [Git 互动过关操作学习! :)](https://learngitbranching.js.org/)
 ***
 
 # 4月目标
@@ -49,8 +50,9 @@
 *  线代学习 + Git笔记化开启  ( )
 *  Git学习 + Git笔记化开启   ( )  
 #
-	 5:20pm-
-	 5pm-6pm: sfasdfas	
+	 5:20pm ~ 6:20pm Git
+	 6:25pm ~ 7:33pm Git
+	 8:30pm ~        Linear Algebra
 	
 
 ## 04/27/2020
