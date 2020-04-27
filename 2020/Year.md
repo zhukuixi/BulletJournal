@@ -24,3 +24,6 @@
 	    * [Github教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600)
 		* [Github教程-CSDN](https://blog.csdn.net/u013490896/article/details/81158454?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522158793989919724839253396%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fblog.%2522%257D&request_id=158793989919724839253396&biz_id=0&utm_source=distribute.pc_search_result.none-task-blog-2~blog~first_rank_v2~rank_v25-2)
 	    * [Github教程-Gitbook](http://gitbook.liuhui998.com/index.html)
+		* [Git Simple Guide!](http://rogerdudler.github.io/git-guide/)
+		* [Git图解](http://marklodato.github.io/visual-git-guide/index-zh-cn.html?no-svg)
+		* [Git心得](http://strivingboy.github.io/blog/2015/06/17/git-doc/)
