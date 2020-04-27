@@ -27,10 +27,11 @@
 ***
 
 # 4月目标
-	- 开启Github记录自己的时间管理, Git化
-	- 线代学习开启+笔记Git化
-	- 工作timelog Git化
-	- EPI刷题复习(bit+array)+笔记Git化
+* 开启Github记录自己的时间管理, Git化  ()
+* 线代学习开启+笔记Git化  ()
+* 工作timelog Git化 ()
+* EPI刷题复习(bit+array)+笔记Git化 ()
+* [彼得前书]()  
 	
 	 
 ***
@@ -47,11 +48,11 @@
 ## 04/26/2020
 *  线代学习 + Git笔记化开启  ( )
 *  Git学习 + Git笔记化开启   ( )  
-#  
-	 4pm-5pm:  
-	 5pm-6pm: 
+#
+	 5:20pm-
+	 5pm-6pm: sfasdfas	
 	
 
 ## 04/27/2020
-	* 4pm-5pm: sadf
-	* 5pm-6pm: sfasdfas	
+	 4pm-5pm: sadf
+	 5pm-6pm: sfasdfas	
