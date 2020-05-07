@@ -66,10 +66,10 @@
 	 
 ## 05/05/2020
 *  线代学习L13~L14  (X)
-*  Git学习   ()  
-*  EPI:5.10~5.13 ()
-*  PRML: Git笔记启动,目标制定()
-*  How to win Kaggle:Git笔记启动，目标制定( )
+*  Git学习   (>)  
+*  EPI:5.10~5.11 (x)
+*  PRML: Git笔记启动,目标制定(>)
+*  How to win Kaggle:Git笔记启动，目标制定(>)
 *  Learning How to Learn:GitNote (X)
 
 #
@@ -77,3 +77,17 @@
 	 02:10pm ~ 03:41pm LearnHowToLearn
      04:30PM ~ 05:38pm LinearAlgebra
 	 06:15pm ~ 08:02pm EPI
+
+## 05/05/2020
+*  线代学习L1~L14  (x)
+*  Git学习   (x)  
+*  EPI:5.11~5.14 (x)
+*  PRML: Git笔记启动,目标制定()
+*  Learning How to Learn:GitNote (x)
+
+#
+	 10:40am ~ 11:51am EPI
+	 01:20pm ~ 02:40pm EPI
+	 03:50pm ~ 05:05pm LearnToLearn
+	 07:20pm ~ 08:10pm Git
+	 08:55pm ~ 10:00pm LinearAlgebra
