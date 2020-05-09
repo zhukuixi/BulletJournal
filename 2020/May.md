@@ -43,12 +43,12 @@
 ***
 
 # 5月第一周目标 5.4~5.10
-* 线代学习抵达**L14**  ()
-* Git学习**完毕** （）
+* 线代学习抵达**L14**  (x)
+* Git学习**完毕** （x）
 * EPI刷题复习(bit+array)+笔记Git化,till 6.3 ()
 * PRML复习+笔记Git化 () 【需启动后细化】
 * How to win Kaggle复习+笔记Git化()【需启动后细化】
-* LearningHowToLearn week1 ()
+* LearningHowToLearn week1 (x)
 
 ## 05/04/2020
 *  线代学习L8~L12  (X)
@@ -82,7 +82,7 @@
 *  线代学习L1~L14  (x)
 *  Git学习   (x)  
 *  EPI:5.11~5.14 (x)
-*  PRML: Git笔记启动,目标制定()
+*  PRML: Git笔记启动,目标制定(>)
 *  Learning How to Learn:GitNote (x)
 
 #
@@ -91,3 +91,24 @@
 	 03:50pm ~ 05:05pm LearnToLearn
 	 07:20pm ~ 08:10pm Git
 	 08:55pm ~ 10:00pm LinearAlgebra
+
+## 05/07/2020
+*  EPI: (X)
+*  线代学习 15,16,17 (X)
+*  PRML: Git笔记启动,目标制定(>)
+*  Learning How to Learn:GitNote (X)
+
+#
+	 10:20am ~ 11:45am LearnHowTolearn
+	 03:30pm ~ 04:43pm LinearAlgebra
+	 05:10pm ~ 06:20pm EPI
+
+## 05/08/2020
+*  EPI: 5.18~5.20 ()
+*  线代学习 18,19,20 ()
+*  PRML: Git笔记启动,目标制定 ()
+*  Learning How to Learn:GitNote ()
+
+#
+	 11:25am ~ 12:07am EPI
+	 02:55pm ~ 03:55pm EPI
