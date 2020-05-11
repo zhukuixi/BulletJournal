@@ -112,3 +112,23 @@
 #
 	 11:25am ~ 12:07am EPI
 	 02:55pm ~ 03:55pm EPI
+	 07:39pm ~ 09:13pm EPI
+     09:40PM ~ 10:20PM EPI
+
+# 5月第2周目标 5.11~5.16
+* 线代学习抵达**L22**  (x)
+* EPI刷题复习,till 6.9 ()
+* PRML复习+笔记Git化 () 【需启动后细化】
+* How to win Kaggle复习+笔记Git化()【需启动后细化】
+* LearningHowToLearn week3 ()
+
+## 05/11/2020
+*  Learning How to Learn: (x)
+*  线代学习 18,19,20 ()
+*  EPI: 5.19~5.20 ()
+*  PRML: Git笔记启动,目标制定 ()
+
+
+#
+	 10:55am ~ 12:20am Learn2Learn
+     01:05pm ~ 
