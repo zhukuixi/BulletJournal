@@ -116,7 +116,7 @@
      09:40PM ~ 10:20PM EPI
 
 # 5月第2周目标 5.11~5.16
-* 线代学习抵达**L22**  (x)
+* 线代学习抵达**L24**  ()
 * EPI刷题复习,till 6.9 ()
 * PRML复习+笔记Git化 () 【需启动后细化】
 * How to win Kaggle复习+笔记Git化()【需启动后细化】
@@ -124,11 +124,14 @@
 
 ## 05/11/2020
 *  Learning How to Learn: (x)
-*  线代学习 18,19,20 ()
-*  EPI: 5.19~5.20 ()
+*  线代学习 18,19,20,21 (x)
+*  EPI: 5.19~6.1 (x)
 *  PRML: Git笔记启动,目标制定 ()
 
 
 #
 	 10:55am ~ 12:20am Learn2Learn
-     01:05pm ~ 
+     01:05pm ~ 02:40pm LinearAlgebra
+	 04:05pm ~ 05:40pm EPI
+	 07:50pm ~ 09:12pm EPI
+	 09:45pm ~ 10:25pm EPI
