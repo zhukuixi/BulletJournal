@@ -223,12 +223,39 @@
 	     03:55pm ~ 5:40pm EPI
 		 10:00pm ~ 11:22pm LinearAlgebra
     
-    ## 05/21/2020
-	*  Learning How to Learn: ()
-	*  线代学习  26,27()
-	*  EPI: 6.7,6.8,6.9(x)
+    ## 05/21~05/25 
+	
+	#   
+		生病啦
+
+	## 05/26
+	*  Learning How to Learn: (x)
+	*  线代学习  26(x)
+	*  EPI: ()
 	*  PRML: Git笔记启动,目标制定 ()
 	*  End time: 9pm ()
 	
 	#
-		 0
+		 02:22pm ~ 03:18pm Learn2Learn
+		 03:36pm ~ 04:26pm LinearAlgebra
+		 
+	## 05/27	
+	*  线代学习  27()
+	*  EPI: ()
+	*  PRML: Git笔记启动,目标制定 ()
+	*  End time: 9pm ()
+	
+	#
+		 02：40pm ~ 04:05pm LinearAlgebra
+
+	## 05/28
+	工作
+
+	## 05/29
+	*  线代学习  27()
+	*  EPI: ()
+	*  PRML: Git笔记启动,目标制定 ()
+	*  End time: 9pm ()
+	
+	#
+		 02:00pm ~ 
