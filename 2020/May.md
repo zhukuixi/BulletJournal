@@ -258,4 +258,5 @@
 	*  End time: 9pm ()
 	
 	#
-		 02:00pm ~ 
+		 02:30pm ~ 3:55 pm LinearAlgebra
+	    
