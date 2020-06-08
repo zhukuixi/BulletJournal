@@ -66,7 +66,7 @@
 	     02:25pm ~ 04:21pm EPI
          04:42pm ~ 05:45pm EPI         
 
-	## 06/02/2020
+	## 06/03/2020
 	
 	*  线代学习 new lesson1 and git old lessons  (x)  
 	*  EPI:搞定String后开始复习！ (x)
@@ -78,4 +78,32 @@
 		 12:10pm ~ 01:25pm EPI
          02:40pm ~ 04:20pm EPI
 		 08:00pm ~ 09:05pm EPI
-		 09:40pm ~               
+		 09:40pm ~ 10:18pm LinearAlgebra
+
+	## 06/04/2020
+	
+	*  线代学习 28  (x)  
+	*  EPI:搞定String后开始复习！ ()
+	*  gym (x)
+	*  PRML: Git笔记启动,目标制定()
+
+		
+	#
+		 01:56pm ~ 02:56pm LinearAlgebra
+	     03:15pm ~ 04:15pm LinearAlgebra
+		 09:05pm ~ 10:38pm LinearAlgebra
+	## 06/05/2020
+	## 06/06/2020
+
+	## 06/07/2020
+	*  线代学习 28  ()  
+	*  EPI:搞定String后开始复习！ ()
+	*  gym ()
+	*  PRML: Git笔记启动,目标制定()
+
+		
+	#
+		11:16am ~ 12:55pm EPI
+        02:45pm ~ 3:48pm EPI
+		04:12pm ~ 5:28pm EPI
+      
