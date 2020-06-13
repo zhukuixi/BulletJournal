@@ -39,7 +39,7 @@
 
 ***
 
-# 6月第一周目标 6.1~5.6
+# 6月第一周目标 6.1~6.6
 * 线代学习抵达**L14**  (x)
 * Git学习**完毕** （x）
 * EPI刷题复习(bit+array)+笔记Git化,till 6.3 ()
@@ -96,14 +96,70 @@
 	## 06/06/2020
 
 	## 06/07/2020
-	*  线代学习 28  ()  
-	*  EPI:搞定String后开始复习！ ()
-	*  gym ()
-	*  PRML: Git笔记启动,目标制定()
+	*  线代学习 28  (>)  
+	*  EPI:搞定String后开始复习！ (x)
+	*  gym (x)
+	*  PRML: Git笔记启动,目标制定(>)
 
 		
 	#
 		11:16am ~ 12:55pm EPI
         02:45pm ~ 3:48pm EPI
 		04:12pm ~ 5:28pm EPI
-      
+
+
+# 6月第一周目标 6.8~6.12
+* 线代学习抵达**L14**  (x)
+* Git学习**完毕** （x）
+* EPI刷题复习(bit+array)+笔记Git化,till 6.3 ()
+* PRML复习+笔记Git化 () 【需启动后细化】
+* How to win Kaggle复习+笔记Git化()【需启动后细化】
+* 
+*     
+	## 06/08/2020
+	*  线代学习 28  ()  
+	*  EPI:搞定String后开始复习！ (x)
+	*  gym (x)
+	*  PRML: Git笔记启动,目标制定(>)
+
+		
+	#
+		11:20am ~ 12:45pm EPI
+		04:00pm ~ 05:30pm EPI
+        10:00pm ~ 11:05pm EPI
+
+	## 06/09/2020
+	*  线代学习 28~30  ()  
+	*  EPI:5.7+ (>)
+	*  gym ()
+	*  PRML: Git笔记启动,目标制定(>)
+    *  End time:9pm
+		
+	#
+		12:20pm ~ 1:05pm LinearAlgebra
+	    02:10pm ~ 3:41pm LinearAlgebra
+        04:52pm ~ 6:30pm LinearAlgebra
+
+	## 06/10/2020
+	*  线代学习 28~30  (x)  
+	*  EPI:5.7+ (>)
+	*  gym ()
+	*  PRML: Git笔记启动,目标制定(>)
+    *  End time:9pm
+		
+	#
+		03:08pm ~ 4:10pm LinearAlgebra
+        05:46pm ~ 6:50pm LinearAlgebra
+
+	## 06/11/2020
+	*  线代学习 31  (x)  
+	*  EPI:5.7+ ()
+	*  gym ()
+	*  PRML: Git笔记启动,目标制定(>)
+    *  End time:9pm
+		
+	#
+		11:13am ~ 1:00pm LinearAlgebra
+        03:15pm ~ 4:21pm LinearAlgebra
+        04:33pm ~ 5:36pm LinaarAlgebra
+        
