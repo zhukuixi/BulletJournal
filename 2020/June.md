@@ -162,4 +162,77 @@
 		11:13am ~ 1:00pm LinearAlgebra
         03:15pm ~ 4:21pm LinearAlgebra
         04:33pm ~ 5:36pm LinaarAlgebra
-        
+    
+	## 06/12/2020
+	## 06/13/2020
+
+	
+	## 06/14/2020
+	*  线代学习 31  (x)  
+	*  EPI:5.7+ ()
+	*  gym ()
+	*  PRML: Git笔记启动,目标制定(>)
+    *  End time:9pm
+		
+	#
+		11：30 ~ 12：21 EPI
+	
+	## 06/15/2020
+		Working
+
+	## 06/16/2020
+	*  线代学习 32,33  (x)  
+	*  EPI:5.7+ ()
+	*  gym (x)
+	*  PRML: Git笔记启动,目标制定(x)		
+	#
+		3:40pm ~ 5:54pm LinearAlgebra
+		7:30pm ~ 8:50pm PRML
+	    9:40pm ~ 11:30pm EPI
+	## 06/17/2020
+	KDM
+	
+	## 06/18/2020
+	*  线代学习 34  (x)  
+	*  EPI: (x)
+	*  gym （)
+	*  PRML: 30()		
+	#
+		12:16pm ~ 2:01 pm EPI
+        2:15pm ~ 3:12pm EPI
+        10:17pm ~ 11:53pm LinearAlgebra 
+	
+	## 06/19/2020
+	*  线代学习 34  (x)  
+	*  EPI: ()
+	*  gym （)
+	*  PRML: 30()		
+	#
+		5:00pm ~ 6:20pm LinearAlgebra
+
+	## 06/20/2020
+	## 06/21/2020
+	## 06/22/2020
+
+
+
+	## 06/23/2020
+	* 线代复习+作业 Problem set 1,2()
+	* HowToWinKaggle_week1(x)
+	* gym ()
+	
+	#
+		2:40pm ~ 3:52pm How2WinKaggle 
+        4:04pm ~ 5:27pm How2WinKaggle
+	    9:20pm ~ 10:50pm How2WinKaggle
+	## 06/24/2020
+	Work
+	## 06/25/2020
+	* Meta-analysis ()
+	* PPT ()
+	
+	#
+		3:00pm ~ 6:05pm
+	    6:35pm ~
+
+	    
