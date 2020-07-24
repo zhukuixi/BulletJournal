@@ -232,7 +232,16 @@
 	* PPT ()
 	
 	#
-		3:00pm ~ 6:05pm
-	    6:35pm ~
+		3:00pm ~ 6:05pm Meta
+	    6:35pm ~ 9:00pm Meta
 
-	    
+	## 06/29/2020
+	* Meta
+	* SVD
+	* Melanoma ML(permutation importance try out)
+	* Nemesis ! 
+	
+	#
+		10:55am ~ 11:50am 
+		12:41pm ~ 01:25pm
+	    01:40pm ~ 02:31pm
