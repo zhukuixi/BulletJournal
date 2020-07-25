@@ -106,10 +106,22 @@
 	    (6H10)
 	# 07/23/2020
 	
-	*  线代复习:23~28 做题Problem Set 6,7,8 ()
-	*  gym ()
+	*  线代复习:23~28 做题Problem Set 6,7,8 (>)
+	*  gym (>)
 	*  How to win Kaggle week1  (x)
 	#
 		
 		2:36pm ~ 3:41pm
 	    3:50pm ~ 4:52pm
+
+	# 07/24/2020
+	
+	*  线代复习:23~28 做题Problem Set 6,7,8 ()
+	*  gym ()
+	*  Meta analysis week1 ()
+	*  How to win Kaggle week1  (x)
+	#
+		
+		11:10am ~ 12:14am MetaAnalysis_cousera
+		01:40pm ~ 3:13pm MetaAnalysis_cousera
+	    WorkWork
