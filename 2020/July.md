@@ -118,10 +118,44 @@
 	
 	*  线代复习:23~28 做题Problem Set 6,7,8 ()
 	*  gym ()
-	*  Meta analysis week1 ()
-	*  How to win Kaggle week1  (x)
+	*  Meta analysis week1 (X)
+	*  How to win Kaggle week1  ()
 	#
 		
 		11:10am ~ 12:14am MetaAnalysis_cousera
 		01:40pm ~ 3:13pm MetaAnalysis_cousera
 	    WorkWork
+
+	# 07/27/2020
+	
+	*  线代复习:23~28 做题Problem Set 6,7,8 ()
+	*  gym ()
+	*  Meta analysis week2 ()
+	*  DeepLearning Paddle
+	*  How to win Kaggle week1  ()
+	#
+		
+		10:40am ~ 11:46am Paddle
+	    12:03pm ~ 12:46pm Paddle
+		01:40pm ~ 02:40pm Paddle
+		03:20pm ~ 04:08pm Paddle
+	    05:00pm ~ 06:24pm Paddle
+		08:10pm ~ 09:05pm Paddle
+	
+	# 07/28/2020
+	
+	*  线代复习: 做题Problem Set 6 ()
+	*  gym ()
+	*  Meta analysis week2 ()
+	*  DeepLearning Paddle
+	*  How to win Kaggle week1  ()
+	#
+		
+		05:36pm ~ 6:30pm
+		06:50pm ~ 9:00pm
+
+	# 07/29/2020
+	#
+		
+		05:30am ~ 7:06am Paddle Lession
+		10:26am ~ 2:05pm Paddle
