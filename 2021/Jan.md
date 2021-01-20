@@ -37,3 +37,8 @@
 
 	#
 		 11:06am ~ 12:15pm Paper Review + Math Study
+
+	## 01/05/2020
+	#
+		 12:00am ~ 1:23pm 
+          1:45pm ~ 
